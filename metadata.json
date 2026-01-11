@@ -1,0 +1,7 @@
+{
+  "name": "EquiScribe AI - Radiographie Equine",
+  "description": "Application de scribe IA pour comptes-rendus radiographiques équins avec dictée vocale, grading automatique et export Word.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
